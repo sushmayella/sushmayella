@@ -7,7 +7,7 @@ Software Engineer focused on backend systems: Java, Spring Boot, Kafka, and even
 ## Currently working on
 
 - **[Fraud-Detection-Pipeline](https://github.com/sushmayella/Fraud-Detection-Pipeline)** - real-time fraud detection with Kafka Streams and hybrid ML scoring
-- Open-source contributions to Testcontainers
+- Working toward first open-source contribution (Testcontainers)
 - Learning Rust for systems-level work
 
 ## Tech Stack
