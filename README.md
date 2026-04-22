@@ -1,7 +1,6 @@
 # Hi, I'm Sushma 👋
 
-Senior Software Engineer focused on backend systems: Java, Spring Boot,
-Kafka, and event-driven architectures. Previously built payment and notification platforms at Capital One, Visa, and Walmart.
+Software Engineer focused on backend systems: Java, Spring Boot, Kafka, and event-driven architectures. Previously built payment and notification platforms at Capital One, Visa, and Walmart.
 
 📍 Santa Clara, CA 
 
