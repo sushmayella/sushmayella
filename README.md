@@ -1,12 +1,11 @@
 # Hi, I'm Sushma 👋
 
-Senior Software Engineer focused on backend systems — Java, Spring Boot,
-Kafka, and event-driven architectures. Previously built payment and
-notification platforms at Capital One, Visa, and Walmart.
+Senior Software Engineer focused on backend systems: Java, Spring Boot,
+Kafka, and event-driven architectures. Previously built payment and notification platforms at Capital One, Visa, and Walmart.
 
 ## Currently working on
 
-- **[Fraud-Detection-Pipeline](https://github.com/sushmayella/Fraud-Detection-Pipeline)** — real-time fraud detection with Kafka Streams and hybrid ML scoring
+- **[Fraud-Detection-Pipeline](https://github.com/sushmayella/Fraud-Detection-Pipeline)** - real-time fraud detection with Kafka Streams and hybrid ML scoring
 - Open-source contributions to Testcontainers
 - Learning Rust for systems-level work
 
